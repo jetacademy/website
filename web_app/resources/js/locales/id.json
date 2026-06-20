@@ -1,0 +1,408 @@
+{
+  "nav": {
+    "why": "Mengapa",
+    "solution": "Solusi",
+    "features": "Fitur",
+    "pricing": "Harga",
+    "blog": "Blog",
+    "scheduleDemo": "Jadwalkan Demo"
+  },
+  "cta": {
+    "title": "Siap Memulai Transformasi?",
+    "subtitle": "Jadwalkan demo personal 30 menit. Tanpa kartu kredit, tanpa komitmen.",
+    "scheduleDemoFree": "Jadwalkan Demo Gratis",
+    "contactSales": "Hubungi Sales"
+  },
+  "footer": {
+    "companyDesc": "PT Jetschool Academy Indonesia adalah perusahaan teknologi pendidikan dengan legalitas resmi AHU-0056382.AH.01.01.TAHUN 2020.",
+    "otherProducts": "Produk Lainnya",
+    "company": "Perusahaan",
+    "about": "Tentang",
+    "careers": "Karir",
+    "blog": "Blog",
+    "contact": "Kontak",
+    "support": "Dukungan",
+    "helpCenter": "Help Center",
+    "status": "Status",
+    "apiDocs": "API Docs",
+    "community": "Komunitas",
+    "copyright": "© 2026 PT Jetschool Academy Indonesia. Hak Cipta Dilindungi.",
+    "privacy": "Privasi",
+    "terms": "Syarat"
+  },
+  "lang": {
+    "id": "Indonesia",
+    "en": "English",
+    "zh": "中文"
+  },
+  "hero": {
+    "title1": "Sistem Operasi Digital",
+    "title2": "untuk Sekolah Masa Depan.",
+    "desc": "Kelola akademik, keuangan, dan operasional yayasan dalam satu ekosistem terpadu.",
+    "btnDemo": "Jadwalkan Demo →",
+    "chip1": "Helicopter View",
+    "chip2": "AI Grading Aktif",
+    "marquee": {
+      "t1": "SCHOOL OS",
+      "t2": "CBT & AI GRADING",
+      "t3": "E-RAPOR MERDEKA",
+      "t4": "PAYMENT GATEWAY",
+      "t5": "WHITELABEL APP",
+      "t6": "DASHBOARD YAYASAN"
+    }
+  },
+  "valueProp": {
+    "overline": "Tantangan Nyata",
+    "title": "Sekolah Rata-rata Menggunakan banyak Aplikasi yang Tidak Saling Terhubung.",
+    "desc": "Fragmentasi data, guru kewalahan, dan keuangan yang tidak efisien dan transparan. Ini bukan masalah kecil — ini masalah sistemik.",
+    "link": "Baca studi kasus →",
+    "impacts": [
+      {
+        "num": "Waktu Terbuang",
+        "label": "Beban Administrasi",
+        "desc": "Guru seringkali terbebani tugas admin manual, mengurangi fokus pada kegiatan mengajar."
+      },
+      {
+        "num": "Tidak Efisien",
+        "label": "Keuangan",
+        "desc": "Pencatatan manual menyulitkan pemantauan arus kas dan tunggakan secara real-time."
+      },
+      {
+        "num": "Lambat",
+        "label": "Pengambilan Keputusan",
+        "desc": "Data yang tersebar membuat yayasan sulit mendapatkan gambaran utuh dengan cepat."
+      }
+    ]
+  },
+  "featuresSection": {
+    "eyebrow": "Satu Platform, Solusi Menyeluruh",
+    "title1": "Mengapa",
+    "title2": "Jetschool Berbeda?",
+    "f1": {
+      "title": "AI Tutor & Gamification",
+      "short": "Siswa belajar mandiri dengan AI",
+      "desc": "Personalisasi materi belajar siswa dengan AI yang adaptif. Dilengkapi sistem Gamifikasi (XP, Badge, Leaderboard) agar belajar terasa seperti bermain game.",
+      "badge": "MOST POPULAR",
+      "list": [
+        {
+          "title": "Personal Learning Path",
+          "sub": "Materi menyesuaikan kecepatan siswa"
+        },
+        {
+          "title": "Leaderboard & XP",
+          "sub": "Kompetisi sehat antar siswa"
+        },
+        {
+          "title": "Analitik Belajar",
+          "sub": "Pantau perkembangan real-time"
+        }
+      ]
+    },
+    "f2": {
+      "title": "Modul Ajar Deep Learning (AI)",
+      "short": "Satu Klik, Modul Ajar Siap",
+      "desc": "Bukan sekadar RPP biasa. AI menyusun Modul Ajar Lengkap dengan pendekatan Deep Learning (Mindful, Meaningful, Joyful). Dokumen 100% siap akreditasi, mencakup Profil Pelajar Pancasila, Diferensiasi, hingga Asesmen Diagnostik & Formatif.",
+      "badge": "KURIKULUM MERDEKA",
+      "list": [
+        {
+          "title": "Identitas & Informasi Umum",
+          "sub": "Otomatis terisi dari data sekolah"
+        },
+        {
+          "title": "Kesiapan & Karakteristik Materi",
+          "sub": "Analisis Gaya Belajar & Relevansi"
+        },
+        {
+          "title": "Desain Deep Learning (3 Pilar)",
+          "sub": "Mindful, Meaningful, Joyful"
+        },
+        {
+          "title": "Langkah Pembelajaran (U-A-R)",
+          "sub": "To Understand, To Apply, To Reflect"
+        },
+        {
+          "title": "Asesmen Komprehensif",
+          "sub": "Diagnostik, Formatif, Sumatif"
+        },
+        {
+          "title": "Lampiran Lengkap",
+          "sub": "LKPD, Bahan Bacaan, Glosarium"
+        }
+      ]
+    },
+    "f3": {
+      "title": "CBT & AI Grading",
+      "short": "Ujian, Tugas & Koreksi Otomatis",
+      "desc": "Platform penilaian Modern dengan 8 Variasi Soal Interaktif: Pilihan Ganda, Uraian/Essay, Mengurutkan, Hotspot, Menjodohkan, Dictation, Memory Game, dan Find Word.",
+      "badge": "ANTI-CHEAT SYSTEM",
+      "list": [
+        {
+          "title": "8 Tipe Soal Interaktif",
+          "sub": "Hotspot, Memory Game, Dictation, dll"
+        },
+        {
+          "title": "Live Monitoring",
+          "sub": "Pantau pelanggaran siswa real-time"
+        },
+        {
+          "title": "Koreksi AI Otomatis",
+          "sub": "Untuk Ujian & Tugas Sekolah"
+        }
+      ]
+    },
+    "f4": {
+      "title": "Keuangan Multi-Channel",
+      "short": "Bayar SPP Mudah & Cepat",
+      "desc": "Sistem pembayaran sekolah terintegrasi. Orang tua bisa bayar SPP lewat Indomaret, Alfamart, QRIS, atau Virtual Account Bank.",
+      "badge": "FINANCE",
+      "list": [
+        {
+          "title": "Virtual Account Bank",
+          "sub": "BNI, BRI, Mandiri, BSI, Permata"
+        },
+        {
+          "title": "Retail Outlet",
+          "sub": "Indomaret & Alfamart"
+        },
+        {
+          "title": "Reminder Tagihan WA",
+          "sub": "Penagihan otomatis ke WhatsApp Ortu"
+        },
+        {
+          "title": "Laporan Real-time",
+          "sub": "Rekonsiliasi otomatis"
+        }
+      ]
+    },
+    "f5": {
+      "title": "SOS Anti-Bullying",
+      "short": "Sekolah Aman & Nyaman",
+      "desc": "Wujudkan sekolah ramah anak dengan sistem pelaporan perundungan yang aman, anonim, dan terpantau.",
+      "badge": "SAFE SCHOOL",
+      "list": [
+        {
+          "title": "Laporan Anonim",
+          "sub": "Melindungi privasi pelapor"
+        },
+        {
+          "title": "Tracking Kasus",
+          "sub": "Pantau status penyelesaian"
+        },
+        {
+          "title": "Panic Button",
+          "sub": "Sinyal darurat bagi siswa"
+        }
+      ]
+    },
+    "f6": {
+      "title": "Cockpit Kelas",
+      "short": "Pantau aktivitas kelas real-time",
+      "desc": "Ruang kelas cerdas dengan integrasi penuh: Monitor Jadwal, Tugas E-Learning, Ujian/Nilai, Keuangan, Bimbingan Konseling (BK), hingga Tutor AI dan Pelaporan SOS dalam satu dashboard.",
+      "badge": "CLASSROOM 360",
+      "list": [
+        {
+          "title": "All-in-One Dashboard",
+          "sub": "Jadwal, Tugas, Nilai, & Keuangan"
+        },
+        {
+          "title": "Student Monitoring",
+          "sub": "Absensi, BK, & Pencapaian Belajar"
+        },
+        {
+          "title": "Safety & Support",
+          "sub": "SOS Bullying & Tutor AI"
+        }
+      ]
+    },
+    "f7": {
+      "title": "Helicopter View Yayasan",
+      "short": "Kontrol penuh seluruh unit sekolah",
+      "desc": "Dashboard eksekutif bagi yayasan untuk memantau performa akademik, keuangan, dan operasional seluruh unit sekolah dalam satu layar.",
+      "badge": "EXECUTIVE",
+      "list": [
+        {
+          "title": "Kalender Akademik Terpusat",
+          "sub": "Pantau agenda TK, SD, SMP, SMA"
+        },
+        {
+          "title": "Monitoring Prestasi",
+          "sub": "Rekap pencapaian siswa seluruh unit"
+        },
+        {
+          "title": "Pantau SPMB Real-time",
+          "sub": "Sistem Penerimaan Murid Baru"
+        }
+      ]
+    }
+  },
+  "pricingSection": {
+    "overline": "Investasi Cerdas",
+    "title1": "Harga",
+    "title2": "Terjangkau,",
+    "title3": "Dampak Luar Biasa",
+    "desc": "Satu platform untuk seluruh kebutuhan sekolah. Tanpa biaya tersembunyi.",
+    "colTitle": "Semua Sudah Termasuk",
+    "benefits": [
+      {
+        "title": "Setup & Konfigurasi",
+        "sub": "Tim kami siapkan semua dari awal"
+      },
+      {
+        "title": "Training & Onboarding",
+        "sub": "Pelatihan guru & admin sekolah"
+      },
+      {
+        "title": "Support Prioritas",
+        "sub": "CS dedicated via WhatsApp"
+      },
+      {
+        "title": "Update Berkala",
+        "sub": "Fitur baru gratis setiap bulan"
+      },
+      {
+        "title": "Bebas Biaya Server",
+        "sub": "Hosting & maintenance ditanggung"
+      }
+    ],
+    "card": {
+      "badge": "BEST VALUE",
+      "label": "Mulai dari",
+      "per": "/ siswa / bulan",
+      "btnText": "Jadwalkan Demo",
+      "note": "*Detail paket & simulasi harga dijelaskan saat demo",
+      "promoPre": "Promo Spesial:",
+      "promoTxt": "Bebas biaya setup & harga khusus dengan berlangganan 3 tahun"
+    },
+    "trust": [
+      "Data Terenkripsi AES-256",
+      "SLA 99.9% Uptime",
+      "Backup Otomatis 6 Jam"
+    ]
+  },
+  "modules": {
+    "overline": "Ekosistem Tanpa Batas",
+    "title1": "5 Pilar Utama",
+    "title2": "Jetschool.",
+    "desc": "Modul lengkap yang saling terhubung, bergerak sinergis untuk memajukan sekolah Anda.",
+    "m1": {
+      "title": "Manajemen & Operasional",
+      "subtitle": "Foundation Control",
+      "f1": "Manajemen Yayasan",
+      "f2": "Kepegawaian (PTK)",
+      "f3": "SPMB Online",
+      "f4": "Kalender Akademik"
+    },
+    "m2": {
+      "title": "Akademik & Pembelajaran",
+      "subtitle": "Teaching & Learning",
+      "f1": "LMS & Kelas Cerdas",
+      "f2": "Ujian CBT Online",
+      "f3": "E-Rapor Merdeka",
+      "f4": "Tahfidz Recorder"
+    },
+    "m3": {
+      "title": "Kesiswaan & Karakter",
+      "subtitle": "Student Affairs",
+      "f1": "Biodata Siswa",
+      "f2": "BK & Konseling",
+      "f3": "SOS Bullying System",
+      "f4": "Portofolio Digital"
+    },
+    "m4": {
+      "title": "Keuangan Sekolah",
+      "subtitle": "Financial System",
+      "f1": "Billing SPP Otomatis",
+      "f2": "Payment Gateway"
+    },
+    "m5": {
+      "title": "Kecerdasan Buatan",
+      "subtitle": "JetSchool AI",
+      "f1": "AI Deep Learning",
+      "f2": "AI Tutor Personal",
+      "f3": "AI Essay Grader",
+      "f4": "Analitik Cerdas"
+    }
+  },
+  "advantages": {
+    "overline": "Keunggulan Platform",
+    "title1": "Dibangun untuk",
+    "title2": "Skala Enterprise.",
+    "heroTitle": "Portofolio Siswa Berkelanjutan",
+    "heroDesc": "Satu identitas digital mengikuti siswa dari TK hingga SMA dalam satu yayasan.",
+    "f1": {
+      "title": "Data Driven Decision",
+      "desc": "Dasbor analitik real-time membantu Yayasan mengambil keputusan strategis.",
+      "tag": "ANALYTICS"
+    },
+    "f2": {
+      "title": "Custom Sesuai Kebutuhan",
+      "desc": "Fitur dan alur kerja dapat disesuaikan dengan keunikan dan budaya sekolah Anda.",
+      "tag": "FLEXIBLE"
+    },
+    "f3": {
+      "title": "Mendukung Kurikulum Terbaru",
+      "desc": "E-Rapor Kurikulum Merdeka, P5, hingga kurikulum Pondok Pesantren.",
+      "tag": "MERDEKA BELAJAR"
+    },
+    "f4": {
+      "title": "Multi-Platform Access",
+      "desc": "Akses mudah dari Laptop, Tablet, maupun Smartphone.",
+      "tag": "ACCESSIBLE"
+    }
+  },
+  "comparison": {
+    "overline": "Transformasi",
+    "title1": "Sebelum & Sesudah",
+    "title2": "Jetschool.",
+    "beforeLabel": "Sebelum",
+    "afterLabel": "Dengan Jetschool",
+    "befores": [
+      "Input nilai rapor 3–5 hari (Excel)",
+      "Tunggakan SPP tidak terpantau",
+      "Guru habiskan 40% waktu untuk admin",
+      "Laporan yayasan bulanan (manual)",
+      "Data siswa tersebar di 12 aplikasi"
+    ],
+    "afters": [
+      "Nilai rapor real-time & otomatis",
+      "Collection rate naik ke 94%",
+      "Waktu admin guru turun < 10%",
+      "Dashboard yayasan live 24/7",
+      "Single ID — satu sumber kebenaran"
+    ]
+  },
+  "whiteLabel": {
+    "overline": "White Label",
+    "title1": "Aplikasi Mobile",
+    "title2": "Milik Sekolah Anda.",
+    "desc": "Orang tua mengunduh aplikasi dengan nama, logo, dan identitas visual sekolah Anda. Jetschool tidak terlihat.",
+    "features": [
+      {
+        "title": "Custom Branding",
+        "desc": "Logo, warna, splash screen sepenuhnya milik sekolah."
+      },
+      {
+        "title": "Push Notification",
+        "desc": "Pengumuman sekolah langsung ke HP orang tua."
+      },
+      {
+        "title": "Auto Update",
+        "desc": "Maintenance dan bugfix kami yang urus, sekolah fokus mendidik."
+      }
+    ]
+  },
+  "demoModal": {
+    "title": "Jadwalkan Demo",
+    "desc": "Isi form berikut untuk mencoba fitur lengkap School OS Jetschool.",
+    "nameLabel": "Nama Lengkap",
+    "namePlaceholder": "Masukkan nama Anda",
+    "schoolLabel": "Nama Sekolah / Yayasan",
+    "schoolPlaceholder": "Cth: SMA Nusantara Raya",
+    "phoneLabel": "Nomor WhatsApp",
+    "phonePlaceholder": "Cth: 081234567890",
+    "btnSubmit": "Kirim & Lanjut ke WhatsApp →",
+    "btnLoading": "Memproses...",
+    "waMessage": "Halo Tim Jetschool! Saya {name} dari {school}. Saya ingin menjadwalkan masa Demo Trial aplikasi.",
+    "errorSubmit": "Terjadi kesalahan."
+  }
+}

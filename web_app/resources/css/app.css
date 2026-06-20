@@ -1,0 +1,246 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=DM+Serif+Display:ital@0;1&display=swap');
+
+@font-face {
+    font-family: 'Cabinet Grotesk';
+    src: url('https://api.fontshare.com/v2/css?f[]=cabinet-grotesk@1,2,3,4,5,7,8,9&display=swap');
+}
+
+@import "tailwindcss";
+
+/* ═══════════════════════════════════════════════
+   JETSCHOOL — Cosmic Professional
+   Serif + Sans · Dark Hero → Warm Light
+   ═══════════════════════════════════════════════ */
+
+:root {
+    /* Hero Dark */
+    --hero-bg: #0A0F1E;
+    --hero-surface: #111827;
+
+    /* Warm Light */
+    --page: #FFFBF7;
+    --surface: #FFF7ED;
+    --card: #FFFFFF;
+
+    /* Text */
+    --ink: #1A1A2E;
+    --ink-soft: #4A4A68;
+    --ink-muted: #8E8EA0;
+    --ink-light: #B8B8C8;
+    --ink-white: #FFFFFF;
+    --ink-white-soft: rgba(255, 255, 255, 0.7);
+
+    /* Accents — Warm & Rich */
+    --indigo: #6366F1;
+    --indigo-light: #EEF2FF;
+    --coral: #F97316;
+    --coral-light: #FFF7ED;
+    --teal: #14B8A6;
+    --teal-light: #F0FDFA;
+    --rose: #F43F5E;
+
+    /* Border */
+    --border: #E8E4DE;
+    --border-light: #F0EDE8;
+
+    /* Measurements */
+    --max-w: 1200px;
+    --section-y: 120px;
+
+    /* Radius */
+    --r-sm: 8px;
+    --r-md: 14px;
+    --r-lg: 24px;
+    --r-xl: 32px;
+    --r-full: 999px;
+
+    /* Feather Shadows */
+    --sh-sm: 0 2px 8px rgba(26, 26, 46, 0.04);
+    --sh-md: 0 8px 24px rgba(26, 26, 46, 0.06);
+    --sh-lg: 0 16px 40px rgba(26, 26, 46, 0.08);
+    --sh-xl: 0 24px 56px rgba(26, 26, 46, 0.12);
+
+    /* Type */
+    --display: 'Cabinet Grotesk', 'DM Sans', sans-serif;
+    --serif: 'DM Serif Display', serif;
+    --sans: 'DM Sans', sans-serif;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: var(--sans);
+    background: var(--page);
+    color: var(--ink-soft);
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+}
+
+/* ═══ TYPOGRAPHY ═══ */
+h1,
+h2,
+h3 {
+    font-family: var(--serif);
+    color: var(--ink);
+    line-height: 1.15;
+    letter-spacing: -0.01em;
+    font-weight: 400;
+}
+
+h4,
+h5,
+h6 {
+    font-family: var(--sans);
+    color: var(--ink);
+    font-weight: 700;
+    line-height: 1.3;
+}
+
+h1 {
+    font-size: clamp(3rem, 6vw, 4.5rem);
+}
+
+h2 {
+    font-size: clamp(2.25rem, 4vw, 3.25rem);
+}
+
+h3 {
+    font-size: clamp(1.5rem, 3vw, 2rem);
+}
+
+p {
+    font-size: 1.1rem;
+    line-height: 1.7;
+    color: var(--ink-soft);
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+}
+
+/* ═══ LAYOUT ═══ */
+.container {
+    max-width: var(--max-w);
+    margin: 0 auto;
+    padding: 0 32px;
+}
+
+/* ═══ OVERLINE ═══ */
+.overline {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    font-family: var(--sans);
+    font-size: 0.78rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--indigo);
+    margin-bottom: 20px;
+}
+
+.overline::before {
+    content: '';
+    width: 24px;
+    height: 2px;
+    background: var(--indigo);
+    border-radius: 2px;
+}
+
+/* ═══ BUTTONS ═══ */
+.btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 16px 32px;
+    border-radius: var(--r-full);
+    font-family: var(--sans);
+    font-weight: 600;
+    font-size: 1rem;
+    border: none;
+    cursor: pointer;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.btn-glow {
+    background: var(--indigo);
+    color: white;
+    box-shadow: 0 4px 20px rgba(99, 102, 241, 0.4);
+}
+
+.btn-glow:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 32px rgba(99, 102, 241, 0.5);
+}
+
+.btn-coral {
+    background: var(--coral);
+    color: white;
+    box-shadow: 0 4px 20px rgba(249, 115, 22, 0.35);
+}
+
+.btn-coral:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 32px rgba(249, 115, 22, 0.5);
+}
+
+.btn-white {
+    background: rgba(255, 255, 255, 0.12);
+    color: white;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(8px);
+}
+
+.btn-white:hover {
+    background: rgba(255, 255, 255, 0.2);
+    transform: translateY(-2px);
+}
+
+.btn-outline {
+    background: transparent;
+    color: var(--ink);
+    border: 1.5px solid var(--border);
+}
+
+.btn-outline:hover {
+    border-color: var(--ink-muted);
+    background: var(--surface);
+}
+
+/* ═══ TRANSITIONS ═══ */
+.fade-enter-active,
+.fade-leave-active {
+    transition: opacity 0.35s ease;
+}
+
+.fade-enter-from,
+.fade-leave-to {
+    opacity: 0;
+}
+
+@media (max-width: 768px) {
+    .container {
+        padding: 0 20px;
+    }
+
+    :root {
+        --section-y: 80px;
+    }
+}

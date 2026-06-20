@@ -1,0 +1,408 @@
+{
+  "nav": {
+    "why": "Why",
+    "solution": "Solutions",
+    "features": "Features",
+    "pricing": "Pricing",
+    "blog": "Blog",
+    "scheduleDemo": "Schedule Demo"
+  },
+  "cta": {
+    "title": "Ready to Start the Transformation?",
+    "subtitle": "Schedule a personalized 30-minute demo. No credit card required, no commitments.",
+    "scheduleDemoFree": "Schedule Free Demo",
+    "contactSales": "Contact Sales"
+  },
+  "footer": {
+    "companyDesc": "PT Jetschool Academy Indonesia is an educational technology company officially registered under AHU-0056382.AH.01.01.TAHUN 2020.",
+    "otherProducts": "Other Products",
+    "company": "Company",
+    "about": "About",
+    "careers": "Careers",
+    "blog": "Blog",
+    "contact": "Contact",
+    "support": "Support",
+    "helpCenter": "Help Center",
+    "status": "Status",
+    "apiDocs": "API Docs",
+    "community": "Community",
+    "copyright": "© 2026 PT Jetschool Academy Indonesia. All Rights Reserved.",
+    "privacy": "Privacy",
+    "terms": "Terms"
+  },
+  "lang": {
+    "id": "Indonesia",
+    "en": "English",
+    "zh": "中文"
+  },
+  "hero": {
+    "title1": "Digital Operating System",
+    "title2": "for the Schools of the Future.",
+    "desc": "Manage academic, financial, and foundation operations in one integrated ecosystem.",
+    "btnDemo": "Schedule a Demo →",
+    "chip1": "Helicopter View",
+    "chip2": "Active AI Grading",
+    "marquee": {
+      "t1": "SCHOOL OS",
+      "t2": "CBT & AI GRADING",
+      "t3": "E-REPORT CARDS",
+      "t4": "PAYMENT GATEWAY",
+      "t5": "WHITELABEL APP",
+      "t6": "FOUNDATION DASHBOARD"
+    }
+  },
+  "valueProp": {
+    "overline": "Real Challenge",
+    "title": "The Average School Uses Multiple Disconnected Applications.",
+    "desc": "Data fragmentation, overwhelmed teachers, and inefficient, non-transparent finances. This is not a small problem — it is a systemic issue.",
+    "link": "Read case study →",
+    "impacts": [
+      {
+        "num": "Wasted Time",
+        "label": "Administrative Burden",
+        "desc": "Teachers are often burdened with manual admin tasks, reducing focus on teaching activities."
+      },
+      {
+        "num": "Inefficient",
+        "label": "Finance",
+        "desc": "Manual recording makes it difficult to monitor cash flow and arrears in real-time."
+      },
+      {
+        "num": "Slow",
+        "label": "Decision Making",
+        "desc": "Scattered data makes it difficult for foundations to get a complete picture quickly."
+      }
+    ]
+  },
+  "featuresSection": {
+    "eyebrow": "One Platform, Comprehensive Solution",
+    "title1": "Why is",
+    "title2": "Jetschool Different?",
+    "f1": {
+      "title": "AI Tutor & Gamification",
+      "short": "Independent learning with AI",
+      "desc": "Personalized student learning materials with adaptive AI. Equipped with Gamification systems (XP, Badges, Leaderboards) so learning feels like playing a game.",
+      "badge": "MOST POPULAR",
+      "list": [
+        {
+          "title": "Personal Learning Path",
+          "sub": "Materials adapt to student pace"
+        },
+        {
+          "title": "Leaderboard & XP",
+          "sub": "Healthy competition among students"
+        },
+        {
+          "title": "Learning Analytics",
+          "sub": "Monitor real-time progress"
+        }
+      ]
+    },
+    "f2": {
+      "title": "Deep Learning Module (AI)",
+      "short": "One Click, Module Ready",
+      "desc": "Not just standard lesson plans. AI compiles Complete Teaching Modules using Deep Learning approaches (Mindful, Meaningful, Joyful). Documents are 100% accreditation-ready, covering Pancasila Student Profiles to Diagnostic & Formative Assessments.",
+      "badge": "KURIKULUM MERDEKA",
+      "list": [
+        {
+          "title": "Identity & General Info",
+          "sub": "Auto-filled from school data"
+        },
+        {
+          "title": "Readiness & Material Characteristics",
+          "sub": "Learning Style & Relevance Analysis"
+        },
+        {
+          "title": "Deep Learning Design",
+          "sub": "Mindful, Meaningful, Joyful"
+        },
+        {
+          "title": "Learning Steps (U-A-R)",
+          "sub": "To Understand, To Apply, To Reflect"
+        },
+        {
+          "title": "Comprehensive Assessment",
+          "sub": "Diagnostic, Formative, Summative"
+        },
+        {
+          "title": "Complete Appendices",
+          "sub": "Student Worksheets, Reading Materials, Glossary"
+        }
+      ]
+    },
+    "f3": {
+      "title": "CBT & AI Grading",
+      "short": "Exams, Assignments & Auto-Correction",
+      "desc": "Modern assessment platform with 8 Interactive Question Variations: Multiple Choice, Essay, Ordering, Hotspot, Matching, Dictation, Memory Game, and Find Word.",
+      "badge": "ANTI-CHEAT SYSTEM",
+      "list": [
+        {
+          "title": "8 Interactive Question Types",
+          "sub": "Hotspot, Memory Game, Dictation, etc."
+        },
+        {
+          "title": "Live Monitoring",
+          "sub": "Monitor student violations in real-time"
+        },
+        {
+          "title": "Automated AI Grading",
+          "sub": "For Exams & School Assignments"
+        }
+      ]
+    },
+    "f4": {
+      "title": "Multi-Channel Finance",
+      "short": "Easy & Fast Tuition Payment",
+      "desc": "Integrated school payment system. Parents can pay tuition via Indomaret, Alfamart, QRIS, or Bank Virtual Accounts.",
+      "badge": "FINANCE",
+      "list": [
+        {
+          "title": "Bank Virtual Account",
+          "sub": "BNI, BRI, Mandiri, BSI, Permata"
+        },
+        {
+          "title": "Retail Outlets",
+          "sub": "Indomaret & Alfamart"
+        },
+        {
+          "title": "WA Billing Reminders",
+          "sub": "Automated billing to Parents WhatsApp"
+        },
+        {
+          "title": "Real-time Reports",
+          "sub": "Automated reconciliation"
+        }
+      ]
+    },
+    "f5": {
+      "title": "Anti-Bullying SOS",
+      "short": "Safe & Comfortable School",
+      "desc": "Create a child-friendly school with a bullying reporting system that is safe, anonymous, and monitored.",
+      "badge": "SAFE SCHOOL",
+      "list": [
+        {
+          "title": "Anonymous Reporting",
+          "sub": "Protects reporters privacy"
+        },
+        {
+          "title": "Case Tracking",
+          "sub": "Monitor resolution status"
+        },
+        {
+          "title": "Panic Button",
+          "sub": "Emergency signal for students"
+        }
+      ]
+    },
+    "f6": {
+      "title": "Classroom Cockpit",
+      "short": "Monitor class activities in real-time",
+      "desc": "Smart classrooms with full integration: Monitor Schedules, E-Learning Assignments, Exams/Grades, Finance, Counseling, up to AI Tutors and SOS Reporting in one dashboard.",
+      "badge": "CLASSROOM 360",
+      "list": [
+        {
+          "title": "All-in-One Dashboard",
+          "sub": "Schedules, Assignments, Grades, & Finances"
+        },
+        {
+          "title": "Student Monitoring",
+          "sub": "Attendance, Counseling, & Learning Achievements"
+        },
+        {
+          "title": "Safety & Support",
+          "sub": "Anti-Bullying SOS & AI Tutor"
+        }
+      ]
+    },
+    "f7": {
+      "title": "Foundation Helicopter View",
+      "short": "Full control of all school units",
+      "desc": "Executive dashboard for foundations to monitor academic, financial, and operational performance of all school units on one screen.",
+      "badge": "EXECUTIVE",
+      "list": [
+        {
+          "title": "Centralized Academic Calendar",
+          "sub": "Monitor TK, SD, SMP, SMA agendas"
+        },
+        {
+          "title": "Achievement Monitoring",
+          "sub": "Recap of student achievements across units"
+        },
+        {
+          "title": "Real-time SPMB Monitor",
+          "sub": "New Student Admission System"
+        }
+      ]
+    }
+  },
+  "pricingSection": {
+    "overline": "Smart Investment",
+    "title1": "Affordable",
+    "title2": "Price,",
+    "title3": "Extraordinary Impact",
+    "desc": "One platform for all school needs. No hidden fees.",
+    "colTitle": "Everything is Included",
+    "benefits": [
+      {
+        "title": "Setup & Configuration",
+        "sub": "Our team prepares everything from the start"
+      },
+      {
+        "title": "Training & Onboarding",
+        "sub": "Training for teachers & school admin"
+      },
+      {
+        "title": "Priority Support",
+        "sub": "Dedicated CS via WhatsApp"
+      },
+      {
+        "title": "Regular Updates",
+        "sub": "Free new features every month"
+      },
+      {
+        "title": "Free Server Fees",
+        "sub": "Hosting & maintenance covered"
+      }
+    ],
+    "card": {
+      "badge": "BEST VALUE",
+      "label": "Starting from",
+      "per": "/ student / month",
+      "btnText": "Schedule a Demo",
+      "note": "*Package details & price simulations are explained during the demo",
+      "promoPre": "Special Promo:",
+      "promoTxt": "Free setup fee & special price with a 3-year subscription"
+    },
+    "trust": [
+      "AES-256 Encrypted Data",
+      "99.9% Uptime SLA",
+      "6-Hour Auto Backup"
+    ]
+  },
+  "modules": {
+    "overline": "Limitless Ecosystem",
+    "title1": "5 Main Pillars of",
+    "title2": "Jetschool.",
+    "desc": "Complete interconnected modules, working synergistically to advance your school.",
+    "m1": {
+      "title": "Management & Operations",
+      "subtitle": "Foundation Control",
+      "f1": "Foundation Management",
+      "f2": "Staffing (PTK)",
+      "f3": "Online SPMB",
+      "f4": "Academic Calendar"
+    },
+    "m2": {
+      "title": "Academics & Learning",
+      "subtitle": "Teaching & Learning",
+      "f1": "LMS & Smart Classes",
+      "f2": "Online CBT Exams",
+      "f3": "Independent E-Report Cards",
+      "f4": "Tahfidz Recorder"
+    },
+    "m3": {
+      "title": "Student Affairs & Character",
+      "subtitle": "Student Affairs",
+      "f1": "Student Biodata",
+      "f2": "Counseling & Guidance",
+      "f3": "SOS Bullying System",
+      "f4": "Digital Portfolio"
+    },
+    "m4": {
+      "title": "School Finance",
+      "subtitle": "Financial System",
+      "f1": "Automatic Tuition Billing",
+      "f2": "Payment Gateway"
+    },
+    "m5": {
+      "title": "Artificial Intelligence",
+      "subtitle": "JetSchool AI",
+      "f1": "AI Deep Learning",
+      "f2": "Personal AI Tutor",
+      "f3": "AI Essay Grader",
+      "f4": "Smart Analytics"
+    }
+  },
+  "advantages": {
+    "overline": "Platform Advantages",
+    "title1": "Built for",
+    "title2": "Enterprise Scale.",
+    "heroTitle": "Continuous Student Portfolio",
+    "heroDesc": "A single digital identity follows students from Kindergarten to High School.",
+    "f1": {
+      "title": "Data Driven Decision",
+      "desc": "Real-time analytics dashboards help the Foundation make data-driven strategic decisions.",
+      "tag": "ANALYTICS"
+    },
+    "f2": {
+      "title": "Custom as Needed",
+      "desc": "Features and workflows can be tailored to the uniqueness and culture of your school.",
+      "tag": "FLEXIBLE"
+    },
+    "f3": {
+      "title": "Supports Latest Curriculum",
+      "desc": "E-Report Cards for Kurikulum Merdeka, P5, up to Islamic Boarding School curricula.",
+      "tag": "FREEDOM TO LEARN"
+    },
+    "f4": {
+      "title": "Multi-Platform Access",
+      "desc": "Easy access from Laptops, Tablets, and Smartphones.",
+      "tag": "ACCESSIBLE"
+    }
+  },
+  "comparison": {
+    "overline": "Transformation",
+    "title1": "Before & After",
+    "title2": "Jetschool.",
+    "beforeLabel": "Before",
+    "afterLabel": "With Jetschool",
+    "befores": [
+      "Report card grading takes 3–5 days (Excel)",
+      "Unmonitored tuition arrears",
+      "Teachers spend 40% of time on admin",
+      "Monthly foundation reports (manual)",
+      "Student data scattered across 12 apps"
+    ],
+    "afters": [
+      "Real-time & automated report cards",
+      "Collection rate increased to 94%",
+      "Teacher admin time reduced < 10%",
+      "Live 24/7 foundation dashboard",
+      "Single ID — one source of truth"
+    ]
+  },
+  "whiteLabel": {
+    "overline": "White Label",
+    "title1": "A Mobile App",
+    "title2": "For Your School.",
+    "desc": "Parents download the app with your schools name, logo, and visual identity. Jetschool is completely invisible.",
+    "features": [
+      {
+        "title": "Custom Branding",
+        "desc": "Logos, colors, and splash screens are completely yours."
+      },
+      {
+        "title": "Push Notification",
+        "desc": "School announcements directly to parents phones."
+      },
+      {
+        "title": "Auto Update",
+        "desc": "We handle maintenance and bug fixes, so the school can focus on teaching."
+      }
+    ]
+  },
+  "demoModal": {
+    "title": "Schedule a Demo",
+    "desc": "Fill out the form below to try the full features of Jetschool School OS.",
+    "nameLabel": "Full Name",
+    "namePlaceholder": "Enter your name",
+    "schoolLabel": "School / Foundation Name",
+    "schoolPlaceholder": "Ex: SMA Nusantara Raya",
+    "phoneLabel": "WhatsApp Number",
+    "phonePlaceholder": "Ex: +6281234567890",
+    "btnSubmit": "Send & Continue to WhatsApp →",
+    "btnLoading": "Processing...",
+    "waMessage": "Hello Jetschool Team! I am {name} from {school}. I would like to schedule an application Demo Trial.",
+    "errorSubmit": "An error occurred."
+  }
+}

@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /api/
+Disallow: /webadmin
+Disallow: /build/
+
+Sitemap: https://jetschool.id/sitemap.xml
