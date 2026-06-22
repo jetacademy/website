@@ -322,6 +322,9 @@ const loadPosts = async (page = 1) => {
 const openEditor = (post = null) => {
   showEditor.value = true;
   imageFile.value = null;
+  if (quillInstance) {
+    quillInstance = null;
+  }
   if (post) {
     form.value = { id: post.id, title: post.title, category: post.category, status: post.status, image: post.image || '', content: post.content };
     imagePreview.value = post.image || null;

@@ -97,8 +97,13 @@ class PostController extends Controller
     {
         if (empty($url)) return null;
 
+        // Izinkan URL lokal (mulai dengan /)
+        if (str_starts_with($url, '/')) {
+            return $url;
+        }
+
         // Hanya izinkan URL http/https
-        if (!preg_match('/^https?:\/\//i', $url)) {
+        if (!preg_match('/^https?:\\/\\//i', $url)) {
             return null;
         }
 
