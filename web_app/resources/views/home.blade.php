@@ -118,7 +118,24 @@
 </head>
 
 <body class="bg-slate-950">
-    <div id="app"></div>
+    <div id="app">
+        <!-- Loading state — muncul sebelum Vue siap -->
+        <div id="splash-screen" style="position:fixed;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;background:#0f172a;z-index:9999;transition:opacity 0.3s">
+            <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" style="animation:spin 1s linear infinite">
+                <path d="M12 2a10 10 0 0 1 10 10M2 12a10 10 0 0 1 10-10"/>
+            </svg>
+            <p style="color:#64748b;margin-top:16px;font-size:14px;font-family:sans-serif">Memuat...</p>
+        </div>
+        <style>@keyframes spin{to{transform:rotate(360deg)}}</style>
+        <script>
+            window.addEventListener('load', () => {
+                setTimeout(() => {
+                    const el = document.getElementById('splash-screen');
+                    if (el) { el.style.opacity = '0'; setTimeout(() => el.remove(), 300); }
+                }, 200);
+            });
+        </script>
+    </div>
 </body>
 
 </html>
